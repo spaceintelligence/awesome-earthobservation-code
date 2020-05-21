@@ -283,6 +283,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine. 
 - [remote-sensing-resistance](https://github.com/mikoontz/remote-sensing-resistance) - Does heterogeneity in forest structure make a forest resistant to wildfire?
 - [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
+- [Web mapping using Earth Engine Apps](https://github.com/nkeikon/earthengine-apps) - How to publish a map online using Google Earth Engine Apps
 
 
 ## Open Data Cube
